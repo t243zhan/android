@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="logo_size">48dp</dimen>
+    <dimen name="version_size">15dp</dimen>
+    <dimen name="version_spacing">3dp</dimen>
+
+</resources>
