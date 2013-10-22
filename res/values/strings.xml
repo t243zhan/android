@@ -5,10 +5,16 @@
     <string name="app_logo_top">Sample Game</string>
     <string name="app_logo_bottom">Can Zhang</string>
     <string name="app_version_info">Version 2.0.0\nCopyright © 2013 Tom\n</string>
-    <string name="menu">Main Menu Screen</string>
     <string name="game">Game Screen</string>
     <string name="scores">Scores Screen</string>
     <string name="settings">Settings Screen</string>
     <string name="help">Help Screen</string>
+    
+    <!-- menu screen -->
+    <string name="menu">Main Menu</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_play">Play Game</string>
+    <string name="menu_item_scores">View Scores</string>
+    <string name="menu_item_help">Help</string>
 
 </resources>
