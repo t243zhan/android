@@ -9,4 +9,9 @@
     <dimen name="screen_title_size">40dp</dimen>
     <dimen name="menu_item_size">34dp</dimen>
 
+    <!-- help screen -->
+    <dimen name="help_text_padding">20dp</dimen>
+    <dimen name="help_text_size">7dp</dimen>
+    <dimen name="help_text_fading">25dp</dimen>
+    <dimen name="help_text_drawable_padding">5dp</dimen>
 </resources>
