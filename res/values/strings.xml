@@ -27,4 +27,22 @@
 	<string name="wait_msg">Retrieving Scores...</string>
 	<string name="wait_title">Loading...</string>
 
+	<!-- setting screen -->
+	<string name="settings_nickname">Nickname:</string>
+    <string name="settings_email">Email:</string>
+    <string name="settings_dob">Birth Date:</string>
+    <string name="settings_dob_not_set">No Date Set</string>
+    <string name="settings_button_dob">Pick Date</string>
+    <string name="settings_button_pwd">Set Password</string>
+    <string name="settings_gender">Gender:</string>
+    <string name="settings_password">Password:</string>
+    <string name="settings_password2">Password (again):</string>
+    <string name="settings_pwd_set">Password Set</string>
+    <string name="settings_pwd_not_set">No Password Set</string>
+    <string name="settings_pwd_not_equal">Passwords do not match, please try again.</string>
+    <string name="settings_pwd_equal">Passwords match.</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="gender_neutral">Prefer Not To Say</string>
+    <string name="set_password_string">Set Password</string>
 </resources>
